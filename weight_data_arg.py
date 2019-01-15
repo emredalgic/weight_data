@@ -162,4 +162,4 @@ if __name__ == "__main__":
     tablename = str(sys.argv[2])
     _weight_run(matris, tablename)
 
-# python c: \Users\emred\Dropbox\Apps\Python\Weight_Data\weight_data_sqledition.py LSCS1639_201811_WEIGHT LSCS1639_WEIGHT_DATASI
+# python .\weight_data_sqledition.py LSCS1639_201811_WEIGHT LSCS1639_WEIGHT_DATASI
